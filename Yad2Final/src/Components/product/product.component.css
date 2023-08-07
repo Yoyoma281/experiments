@@ -1,0 +1,10 @@
+.product{
+    justify-content: center;
+    text-align: center;
+  }
+
+
+  .image-size {
+    width: 350px;
+    height: 300px;
+  }

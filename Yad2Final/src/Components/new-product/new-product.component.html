@@ -1,0 +1,16 @@
+<h1><u>Add new product</u></h1>
+
+<form ngNativeValidate (submit)="AddProduct()">
+    Name:             <input type="text" required [(ngModel)]="product.Name" name="Name">
+    Date published:   <input type="date" required [(ngModel)]="product.DatePublished" name="DatePublished">
+    Image:            <input type="url" required [(ngModel)]="product.image" name="Image">
+    Price:            <input type="number" required [(ngModel)]="product.Price" name="Price">
+    ExtraDetails:     <input type="text" required [(ngModel)]="product.ExtraDetails" name="ExtraDetails">
+    Phone:            <input type="tel" required [(ngModel)]="product.phoneNumber" name="phoneNumber">
+    City:             <input type="text" required [(ngModel)]="product.city" name="City">
+
+
+  
+    <button type="submit">Add product</button>
+  </form>
+  

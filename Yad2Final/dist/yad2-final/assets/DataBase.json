@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 7,
+      "Name": "Apple iPhone 13",
+      "DatePublished": "2021-03-17",
+      "image": "https://d3m9l0v76dty0.cloudfront.net/system/photos/7639589/show/bffda7d3cc6bb1c4bd59ef56c6e26f33.png",
+      "ExtraDetails": "Latest iPhone with advanced camera and performance.",
+      "Price": 999,
+      "phoneNumber": "9876543210",
+      "city": "San Francisco"
+    },
+    {
+      "id": 8,
+      "Name": "JBL TUNE 510BT",
+      "DatePublished": "2018-09-06",
+      "image": "https://img.ksp.co.il/item/197913/b_1.jpg?v=1647854454",
+      "ExtraDetails": "Includes features like voice assistant support, hands-free calling, and foldable design for portability.",
+      "Price": 799,
+      "phoneNumber": "4567891230",
+      "city": "New York"
+    },
+    {
+      "id": 9,
+      "Name": "Apple Watch 8 41mm BT",
+      "DatePublished": "2022-04-08",
+      "image": "https://d3m9l0v76dty0.cloudfront.net/system/photos/10967940/large/c1d2c840c118d69d002c3d21ccc0d502.jpg",
+      "ExtraDetails": "Rated water-resistant 50 meters. Perfect for swimming, surfing, or water balloon fights.",
+      "Price": 1299,
+      "phoneNumber": "7890123456",
+      "city": "Chicago"
+    },
+    {
+      "id": 10,
+      "Name": "Samsung Galaxy S22",
+      "DatePublished": "2023-01-30",
+      "image": "https://www.ivory.co.il/files/catalog/org/1680171418l18Dz.jpg",
+      "ExtraDetails": "Powerful smartphone with an impressive display, fast processor, and high-quality camera.",
+      "Price": 1099,
+      "phoneNumber": "1234567890",
+      "city": "Los Angeles"
+    },
+    {
+      "id": 11,
+      "Name": "Sony WH-1000XM5 Wireless Headphones",
+      "DatePublished": "2023-06-12",
+      "image": "data:image/webp;base64,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",
+      "ExtraDetails": "Premium noise-canceling headphones with long battery life and excellent sound quality.",
+      "Price": 349,
+      "phoneNumber": "2345678901",
+      "city": "Seattle"
+    },
+    {
+      "id": 12,
+      "Name": "Canon EOS R5 Mirrorless Camera",
+      "DatePublished": "2022-11-25",
+      "image": "data:image/webp;base64,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",
+      "ExtraDetails": "Professional-grade mirrorless camera with high-resolution capabilities and advanced video recording.",
+      "Price": 2799,
+      "phoneNumber": "3456789012",
+      "city": "Miami"
+    }
+  ]
+}
