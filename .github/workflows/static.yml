@@ -38,8 +38,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: site-content
-          # Upload specific directory containing the static content you want to deploy
-          path: '../build' 
+          path: './build' 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
