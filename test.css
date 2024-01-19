@@ -12,8 +12,8 @@ body {
     justify-content: center;
     display: flex;
     background-color: rgb(255, 255, 255);
-    height: 800px;
-    width: 800px;
+    height: 400px;
+    width: 400px;
 }
 
 .searchbutton {
