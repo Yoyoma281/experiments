@@ -48,7 +48,7 @@ body {
 }
 
 .searchbox {
-    border: none;
+    border: 10px;
     text-align: center;
     outline: none;
     
